@@ -26,5 +26,5 @@ python3 run.py
 - All the commands need to run from the terminal (for Linux and MacOS)
 - This mini-system is designed to work with single requests only.
 - There are instructions/hints display on your terminal during running the program.
-<br>
+
 If you have any questions or feedback, please feel free to contact me via my email.<br>
