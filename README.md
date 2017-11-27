@@ -22,7 +22,7 @@ python3 run.py
 
 <b>Note:</b>
 - This program is built on TensorFlow for GPU, it should be no problem working on CPU (hasn't tested yet).
-- Any problem occurs because of not compatible with CPU, please change the device varibale from GPU:0 to CPU:0 in text_cnn.py file.
+- Any problem occurs because of not compatible with CPU, please change the device variable from GPU:0 to CPU:0 in text_cnn.py file.
 - All the commands need to run from the terminal (for Linux and MacOS)
 - This mini-system is designed to work with single requests only.
 - There are instructions/hints display on your terminal during running the program.
