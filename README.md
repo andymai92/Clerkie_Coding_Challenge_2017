@@ -21,6 +21,7 @@ python3 run.py
 ```
 
 <b>Note:</b>
+- Demo video: https://drive.google.com/open?id=1ZicO6JalNR0Ll5-ZOxAYqNVu7oUI7mvN
 - This program is built on TensorFlow for GPU, it should be no problem working on CPU (hasn't tested yet).
 - Any problem occurs because of not compatible with CPU, please change the device variable from GPU:0 to CPU:0 in text_cnn.py file.
 - All the commands need to run from the terminal (for Linux and MacOS)
