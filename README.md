@@ -20,7 +20,7 @@ python3 train.py
 python3 run.py
 ```
 
-###<u>Note:</u>
+<b><u>Note:</u></b>
 - All the commands need to run from the terminal (for Linux and MacOS)
 - This mini-system is designed to work with single requests only.
 - There are instructions/hints display on your terminal during running the program.
